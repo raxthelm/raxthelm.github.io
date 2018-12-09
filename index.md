@@ -43,13 +43,13 @@ seamless# fields of interest
 # about me / contact
 
 
-Rebekka Axthelm 
-Hochschule Konstanz
-Fakultät Informatik
-Alfred-Wachtel-Straße 8
-78462 Konstanz
-Tel.: +49 7531 206-503
-rebekka.axthelm@htwg-konstanz.de | ![Image of Rebekka](http://www-home.htwg-konstanz.de/~raxthelm/pics/axt_por.jpg =200x)
+Rebekka Axthelm |
+Hochschule Konstanz |
+Fakultät Informatik |
+Alfred-Wachtel-Straße 8 |
+78462 Konstanz |
+Tel.: +49 7531 206-503 |
+rebekka.axthelm@htwg-konstanz.de | <img width="200" src="http://www-home.htwg-konstanz.de/~raxthelm/pics/axt_por.jpg">
 
 
 as you can see: this site is under construction ... 8-]
