@@ -1,4 +1,4 @@
-# fields of interest
+seamless# fields of interest
 
 * numerical mathematics i nparticular 
 * finite element methods to solve
@@ -9,8 +9,8 @@
 
 # current projects
 
-* Cman - subproject in the IBH-Lab "Seamless Learning" (http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)
-* BiLeSA - subproject in the IBH-Lab "Seamless Learning" (http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)
+* [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/)
+* [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning" 
 * Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication
 
 # past projects
@@ -18,11 +18,13 @@
 * ... (coming soon)
 
 # teaching
-## lessons
+## lessons 
 
 * Mathe 1 (Lineare Algebra)
 * Mathe 2 (Analysis)
 * Signale, Systeme und Sensoren
+
+(The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
 
@@ -33,15 +35,21 @@
   * "Duisburg 2010"
   * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
   
-  
-# about me / contact
-
 
 ## master theses
 
 ... (in progress)
 
+# about me / contact
 
+
+Rebekka Axthelm 
+Hochschule Konstanz
+Fakultät Informatik
+Alfred-Wachtel-Straße 8
+78462 Konstanz
+Tel.: +49 7531 206-503
+rebekka.axthelm@htwg-konstanz.de | ![Image of Rebekka](http://www-home.htwg-konstanz.de/~raxthelm/pics/axt_por.jpg)
 
 
 as you can see: this site is under construction ... 8-]
