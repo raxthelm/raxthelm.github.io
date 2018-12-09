@@ -1,4 +1,4 @@
-seamless# fields of interest
+# fields of interest
 
 * numerical mathematics i nparticular 
 * finite element methods to solve
@@ -50,9 +50,8 @@ Alfred-Wachtel-Straße 8 <br>
 78462 Konstanz <br>
 Tel.: +49 7531 206-503 <br> 
 rebekka.axthelm@htwg-konstanz.de
- </td></tr>
- <tr><td valign="center">
-<img width="200" src="http://www-home.htwg-konstanz.de/~raxthelm/pics/axt_por.jpg">
+ </td><td valign="center">
+<img width="150" src="http://www-home.htwg-konstanz.de/~raxthelm/pics/axt_por.jpg">
   </td>
  </tr>
  </table>
