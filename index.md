@@ -1,6 +1,6 @@
 # fields of interest
 
-* numerical mathematics i nparticular 
+* numerical mathematics in particular 
 * finite element methods to solve
 * partial differential equations which describe different physical processes. 
 * my strong interest is currently focused on 
@@ -51,7 +51,7 @@ Alfred-Wachtel-Straße 8 <br>
 Tel.: +49 7531 206-503 <br> 
 rebekka.axthelm@htwg-konstanz.de
  </td><td valign="center">
- ![](images/axt_por.jpg)
+<img width="150" src="images/axt_por.jpg">
   </td>
  </tr>
  </table>
