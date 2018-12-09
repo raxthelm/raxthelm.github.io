@@ -42,7 +42,7 @@
 
 # about me / contact
 
-<table border="0"><tr><td  align="right">
+<table border="0"><tr><td  valign="center">
 Rebekka Axthelm <br>
 Hochschule Konstanz <br>
 Fakultät Informatik <br>
