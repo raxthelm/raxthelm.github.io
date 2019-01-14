@@ -36,7 +36,7 @@
   * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
   
 
-## master theses
+## supervised scientific works
 
 ... (in progress)
 
