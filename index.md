@@ -9,20 +9,32 @@
 
 # current projects
 
-* [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/)
-* [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning" 
-* Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication
-
-# past projects
-
-* ... (coming soon)
-
-* <table border="0" valign="top">
+<table border="0" cellpadding="0" valign="top" >
   	 <tr>
-	 <td><img width="100" src="images/RaspAtHomeWhiteWide.png"></td>
-	 <td> pi-Vision: Gesichtserkennung auf dem Raspberry Pi
-	 * ZHAW interne Sonderfinanzierung
-	 * Laufzeit: 2014
+	 <td><img width="150" src="images/RaspAtHomeWhiteWide.png"></td>
+         <td> [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
+	 </td>
+	 </tr>
+  	 <tr>
+	 <td><img width="150" src="images/RaspAtHomeWhiteWide.png"></td>
+         <td> [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
+	 </td>
+	 </tr>
+  	 <tr>
+	 <td></td>
+         <td> Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
+	 </td>
+	 </tr>
+	
+ </table>
+
+ 
+# past projects (in progress ...)
+
+<table border="0" cellpadding="0" valign="top" >
+  	 <tr>
+	 <td><img width="150" src="images/RaspAtHomeWhiteWide.png"></td>
+         <td> [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 	 </td>
 	 </tr>	 
  </table>
