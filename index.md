@@ -12,22 +12,22 @@
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
 	 <td><img width="200" src="images/Streetparade.jpg"></td>
-         <td> [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014
+         <td align="left"> [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014
 	 </td>
 	 </tr>
   	 <tr>
 	 <td><img width="200" src="images/CmanTitle.png"></td>
-         <td> [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
+         <td align="left"> [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
 	 </td>
 	 </tr>
   	 <tr>
 	 <td><img width="200" src="images/BiLeSATitle.png"></td>
-         <td> [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
+         <td align="left"> [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
 	 </td>
 	 </tr>
   	 <tr>
 	 <td></td>
-         <td> Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
+         <td align="left"> Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 	 </td>
 	 </tr>
 	
@@ -39,7 +39,7 @@
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
 	 <td><img width="200" src="images/RaspAtHomeWhiteWide.png"></td>
-         <td> [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
+         <td align="left"> [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 	 </td>
 	 </tr>	 
  </table>
