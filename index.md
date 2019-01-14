@@ -9,10 +9,16 @@
 
 # current projects
 
+* [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
+* [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
+* [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
+* Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
+
+<!--
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
 	 <td><img width="200" src="images/Streetparade.jpg"></td>
-         <td align="left"> ["pFLowSIM"](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014
+         <td align="left"> ["pFLowSIM"](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
 	 </td>
 	 </tr>
   	 <tr>
@@ -30,12 +36,15 @@
          <td align="left"> Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 	 </td>
 	 </tr>
-	
  </table>
-
+-->
  
 # past projects (in progress ...)
 
+* [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
+* ... to be continued 
+
+<!--
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
 	 <td><img width="200" src="images/RaspAtHomeWhiteWide.png"></td>
@@ -43,7 +52,7 @@
 	 </td>
 	 </tr>	 
  </table>
-
+-->
 
 # teaching
 ## lessons 
