@@ -12,7 +12,7 @@
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
 	 <td><img width="200" src="images/Streetparade.jpg"></td>
-         <td align="left"> [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014
+         <td align="left"> ["pFLowSIM"](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014
 	 </td>
 	 </tr>
   	 <tr>
