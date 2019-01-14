@@ -17,10 +17,10 @@
 
 * ... (coming soon)
 
-* <table border="0">
+* <table border="0" valign="top">
   	 <tr>
-	 <td valign="center"><img width="50" src="images/RaspAtHomeWhiteWide.png"></td>
-	 <td  valign="center"> pi-Vision: Gesichtserkennung auf dem Raspberry Pi
+	 <td><img width="100" src="images/RaspAtHomeWhiteWide.png"></td>
+	 <td> pi-Vision: Gesichtserkennung auf dem Raspberry Pi
 	 * ZHAW interne Sonderfinanzierung
 	 * Laufzeit: 2014
 	 </td>
