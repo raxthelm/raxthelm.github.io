@@ -66,8 +66,8 @@
 ## teamprojects (ba)
 
 * WS 18/19: 
-  * "simulating drunken students"
-  * "Book-Writer"
+  * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
+  * ["Book-Writer software"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf)
 * SS 18: 
   * "Duisburg 2010"
   * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
@@ -75,7 +75,9 @@
 
 ## supervised scientific works
 
-... (in progress)
+### master thesis
+
+* WS 18/19: "Untersuchung verschiedener Methoden yur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
 # about me / contact
 
