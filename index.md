@@ -75,9 +75,9 @@
 
 ## supervised scientific works
 
-### master thesis
+### master thesis in progress
 
-* WS 18/19: "Untersuchung verschiedener Methoden yur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
+* WS 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
 # about me / contact
 
