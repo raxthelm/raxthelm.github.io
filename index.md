@@ -39,7 +39,7 @@
  </table>
 -->
  
-# past projects (in progress ...)
+# past projects 
 
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
