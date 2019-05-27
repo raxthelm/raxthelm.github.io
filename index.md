@@ -56,15 +56,18 @@
 
 # teaching
 ## lessons 
-
+### AIN (bachelor)
 * Mathe 1 (Lineare Algebra)
 * Mathe 2 (Analysis)
 * Signale, Systeme und Sensoren
+### MSI (master)
+* Numerik
 
 (The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
-
+*SS 19:
+  * Color your foto (in progress)
 * WS 18/19: 
   * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
   * ["Book-Writer software"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf)
@@ -74,6 +77,7 @@
   
 
 ## supervised scientific works
+["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
 ### master thesis in progress
 
