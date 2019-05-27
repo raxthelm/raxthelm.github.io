@@ -14,31 +14,6 @@
 * [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
 * Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 
-<!--
-<table border="0" cellpadding="0" valign="top" >
-  	 <tr>
-	 <td><img width="200" src="images/Streetparade.jpg"></td>
-         <td align="left"> ["pFLowSIM"](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
-	 </td>
-	 </tr>
-  	 <tr>
-	 <td><img width="200" src="images/CmanTitle.png"></td>
-         <td align="left"> [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
-	 </td>
-	 </tr>
-  	 <tr>
-	 <td><img width="200" src="images/BiLeSATitle.png"></td>
-         <td align="left"> [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
-	 </td>
-	 </tr>
-  	 <tr>
-	 <td></td>
-         <td align="left"> Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
-	 </td>
-	 </tr>
- </table>
--->
- 
 # past projects 
 
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
@@ -60,13 +35,14 @@
 * Mathe 1 (Lineare Algebra)
 * Mathe 2 (Analysis)
 * Signale, Systeme und Sensoren
+
 ### MSI (master)
 * Numerik
 
 (The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
-*SS 19:
+* SS 19:
   * Color your foto (in progress)
 * WS 18/19: 
   * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
@@ -79,8 +55,10 @@
 ## supervised scientific works
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
-### master thesis in progress
+### bachelor thesis in progress
+* SS 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
 
+### master thesis in progress
 * WS 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
 # about me / contact
