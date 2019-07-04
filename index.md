@@ -29,6 +29,10 @@
  </table>
 -->
 
+# news
+
+* [KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
+
 # teaching
 ## lessons 
 ### AIN (bachelor)
