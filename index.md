@@ -47,7 +47,7 @@
 
 ## teamprojects (ba)
 * SS 19:
-  * Color your foto (in progress)
+  * ["Color your foto"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Color_TP_SoSe19.pdf)
 * WS 18/19: 
   * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
   * ["Book-Writer software"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf)
@@ -59,10 +59,10 @@
 ## supervised scientific works
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
-### bachelor thesis in progress
+### bachelor thesis
 * SS 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
 
-### master thesis in progress
+### master thesis
 * WS 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
 # about me / contact
