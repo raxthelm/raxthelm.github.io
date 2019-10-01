@@ -11,7 +11,11 @@
 
 * [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
 * [Cman](http://www.seamless-learning.eu/en/projekte/projekt-6-crowdmanagement-mit-computersimulationen/)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
+  - [Cman_<sub>event</sub>](http://www.xthelm.de/Cman): some learning object units
+  - Cman_<sub>math</sub>: there is nothing to see yet
 * [BiLeSA](http://www.seamless-learning.eu/en/projekte/projekt-7-bildverarbeitung-mit-smartphone-apps/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
+ - [BiLeSA_<sub>PDE</sub>](https://padlet.com/rebekka_axthelm/BiLeSA)
+ - BiLeSA_<sub>HOM</sub>: there is nothing to see yet
 * Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 
 # past projects 
