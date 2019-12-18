@@ -35,6 +35,10 @@
 
 # news
 
+* [IN Jahresrückblick 2019](https://www.htwg-konstanz.de/fileadmin/pub/fk_in/News/Newsletter/Jahresrueckblick_Fakultaet-Informatik_HTWG-Konstanz_2019.pdf)
+
+# presentations
+
 * [191127 - Vortragsreihe Mathematik](http://www-home.htwg-konstanz.de/~raxthelm/News/Plakat_INMVortrag_WS1920.pdf) - Simulation von Personenströmen als Kontinuum bei Großanlässen und dichtem Personenverkehr
 * [190704 - KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
 * [190604 - Lehr-Werkstatt](https://www.htwg-konstanz.de/hochschule/lehre-und-qualitaetsmanagement/lehrwerkstatt/) - Seamless Learning 
