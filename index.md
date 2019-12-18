@@ -37,6 +37,7 @@
 
 * [191127 - Vortragsreihe Mathematik](http://www-home.htwg-konstanz.de/~raxthelm/News/Plakat_INMVortrag_WS1920.pdf) - Simulation von Personenströmen als Kontinuum bei Großanlässen und dichtem Personenverkehr
 * [190704 - KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
+* [190604 - Lehr-Werkstatt](https://www.htwg-konstanz.de/hochschule/lehre-und-qualitaetsmanagement/lehrwerkstatt/) - Seamless Learning 
 
 # teaching
 ## lessons 
@@ -46,17 +47,18 @@
 * Signale, Systeme und Sensoren
 
 ### MSI (master)
-* Numerik
+* Numerische Mathematik
 
 (The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
-* SS 19:
+* WiSe 19/20: "PiLadies" (in progress)
+* SoSe 19:
   * ["Color your foto"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Color_TP_SoSe19.pdf)
-* WS 18/19: 
+* WiSe 18/19: 
   * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
   * ["Book-Writer software"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf)
-* SS 18: 
+* SoSe 18: 
   * "Duisburg 2010"
   * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
   
@@ -65,10 +67,10 @@
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
 ### bachelor thesis
-* SS 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
+* SoSe 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
 
 ### master thesis
-* WS 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
+* WiSe 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
 # about me / contact
 
