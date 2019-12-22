@@ -16,7 +16,7 @@
 * [BiLeSA](https://seamless-learning.eu/en/projekte/bilesa/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
   - [BiLeSA_<sub>PDE</sub>](https://padlet.com/rebekka_axthelm/BiLeSA): some learning object units
   - BiLeSA_<sub>HOM</sub>: there is nothing to see yet
-* Knowledge Stories: Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
+* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 
 # past projects 
 
