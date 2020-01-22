@@ -78,7 +78,7 @@
 
 # about me / contact
 
-["May I introduce myself? (german)"](https://youtu.be/https://youtu.be/px_7Kniswso)
+May I introduce myself? (german)
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
