@@ -4,6 +4,7 @@
 * finite element methods to solve
 * partial differential equations which describe different physical processes. 
 * my strong interest is currently focused on 
+  * swarm behaviour
   * the calculation of pedestrian flow, based on a macroscopic modeling
   * mathematical methods of image processing
 
