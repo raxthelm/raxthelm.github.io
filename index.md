@@ -19,7 +19,7 @@
 
 # past projects 
 
-* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/), results: [videos]()
+* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/), results and documentation: [videos](https://knowledgestories.ibh.hs-furtwangen.de/)
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
 
