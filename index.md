@@ -16,10 +16,10 @@
 * [BiLeSA](https://seamless-learning.eu/en/projekte/bilesa/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
   - [BiLeSA_<sub>PDE</sub>](https://padlet.com/rebekka_axthelm/BiLeSA): some learning object units
   - BiLeSA_<sub>HOM</sub>: there is nothing to see yet
-* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019
 
 # past projects 
 
+* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/), results: [videos]()
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
 
