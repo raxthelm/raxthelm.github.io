@@ -57,7 +57,8 @@
 (The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
-* WiSe 19/20: "PiLadies" (in progress)
+* WiSe 19/20: 
+  * ["PiLadies"](http://www.isted.eu)
 * SoSe 19:
   * ["Color your foto"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Color_TP_SoSe19.pdf)
 * WiSe 18/19: 
