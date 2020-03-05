@@ -36,6 +36,9 @@
 
 # news
 
+* [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/)
+<img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">
+
 * [IN Jahresrückblick 2019](https://www.htwg-konstanz.de/fileadmin/pub/fk_in/News/Newsletter/Jahresrueckblick_Fakultaet-Informatik_HTWG-Konstanz_2019.pdf)
 
 # presentations
