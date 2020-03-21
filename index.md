@@ -37,14 +37,18 @@
 # news
 
 * [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/) <span style="color:red">auf unbekannten Termin verschoebn!</span> 
+
  <img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">
+
 * [IN Jahresrückblick 2019](https://www.htwg-konstanz.de/fileadmin/pub/fk_in/News/Newsletter/Jahresrueckblick_Fakultaet-Informatik_HTWG-Konstanz_2019.pdf)
 
 # presentations
 
 * [191127 - Vortragsreihe Mathematik](http://www-home.htwg-konstanz.de/~raxthelm/News/Plakat_INMVortrag_WS1920.pdf) - Simulation von Personenströmen als Kontinuum bei Großanlässen und dichtem Personenverkehr 
-vertonte Präsentation:
-<iframe width="560" height="315" src="http://www.xthelm.de/pFlow/Praesentations/INM_Vortrag.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[vertonte Präsentation:](http://www.xthelm.de/pFlow/Praesentations/INM_Vortrag.mp4)
+
+<iframe width="560" height="315" src="http://www.xthelm.de/pFlow/Praesentations/INM_Vortrag_small.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [190704 - KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
 * [190604 - Lehr-Werkstatt](https://www.htwg-konstanz.de/hochschule/lehre-und-qualitaetsmanagement/lehrwerkstatt/) - Seamless Learning 
