@@ -36,9 +36,11 @@
 
 # news
 
-* [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/) <span style="color:red">auf unbekannten Termin verschoebn!</span> 
-
- <img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">
+* <table valign="center"><tr><td>
+	[Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/) 
+	<span style="color:red">auf unbekannten Termin verschoebn!</span> </td>
+	<td><img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">
+</td></tr></table>
 
 * [IN Jahresrückblick 2019](https://www.htwg-konstanz.de/fileadmin/pub/fk_in/News/Newsletter/Jahresrueckblick_Fakultaet-Informatik_HTWG-Konstanz_2019.pdf)
 
