@@ -4,9 +4,9 @@
 * finite element methods to solve
 * partial differential equations which describe different physical processes. 
 * my strong interest is currently focused on 
-  * swarm behaviour
   * the calculation of pedestrian flow, based on a macroscopic modeling
   * mathematical methods of image processing
+  * epidemic modeling, coupled with pedestrian flow
 
 # current projects
 
@@ -84,7 +84,7 @@
   
  ## teamprojects (msi)
 * SoSe 2020:
-  * Epidemie-Modelling (in progress)
+  * Epidemie-Modellierung (in progress)
   
 ## supervised scientific works
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
