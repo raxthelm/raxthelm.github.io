@@ -60,6 +60,7 @@
 * Mathe 1 (Lineare Algebra)
 * Mathe 2 (Analysis)
 * Signale, Systeme und Sensoren
+* Stochastik
 
 ### MSI (master)
 * Numerische Mathematik
@@ -67,6 +68,9 @@
 (The lecture materials will be provided on moodle.)
 
 ## teamprojects (ba)
+* SoSe 2020:
+  * pFlow - pedestrian counting App (in progress)
+  * Verleihplattform (in progress)
 * WiSe 19/20: 
   * ["PiLadies"](http://www.isted.eu)
 * SoSe 19:
@@ -78,11 +82,16 @@
   * "Duisburg 2010"
   * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
   
-
+ ## teamprojects (msi)
+* SoSe 2020:
+  * Epidemie-Modelling (in progress)
+  
 ## supervised scientific works
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
 ### bachelor thesis
+* SoSe 20: "NN" in progress (A. Moser, S. Rufener, ZHAW Winterthur) [second reviewer]
+* SoSe 20: "Methoden der Bildverarbeitung zur Erkennung von Objektfehlern innerhalb von Ringstrukturen." (J. Kaiser)
 * SoSe 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
 
 ### master thesis
