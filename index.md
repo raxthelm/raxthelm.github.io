@@ -90,9 +90,9 @@
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
 
 ### bachelor thesis
-* SoSe 20: "NN" in progress (A. Moser, S. Rufener, ZHAW Winterthur) [second reviewer]
+* SoSe 20: "Physical Modelling and Simulation of Pedestrian Flow Using the Finite Element Method." (A. Moser, S. Rufener, ZHAW Winterthur) [second advisor]
 * SoSe 20: "Methoden der Bildverarbeitung zur Erkennung von Objektfehlern innerhalb von Ringstrukturen." (J. Kaiser)
-* SoSe 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser)
+* SoSe 19: "Synthese eines auf einem Polynom basierenden Sinusgenerators auf einem FPGA." (C. Kaiser) [second advisor]
 
 ### master thesis
 * WiSe 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
