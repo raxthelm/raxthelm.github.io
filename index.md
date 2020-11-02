@@ -70,7 +70,7 @@
 ## teamprojects (ba)
 * SoSe 2020:
   * pFlow - pedestrian counting App (in progress)
-  * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png">
+  * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
 * WiSe 19/20: 
   * ["PiLadies"](http://www.isted.eu)
 * SoSe 19:
