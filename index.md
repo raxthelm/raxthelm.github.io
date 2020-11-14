@@ -95,12 +95,13 @@
 
 # about me / contact
 
-May I introduce myself? (german)
+## May I introduce myself? (german)
   
 <iframe width="800" height="450" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
-<table width="800" border="0"><tr><td valign="center">
+<table border="0"><tr><td width="650" valign="right">
 Rebekka Axthelm <br>
 Hochschule Konstanz <br>
 Fakultät Informatik <br>
@@ -114,5 +115,6 @@ rebekka.axthelm@htwg-konstanz.de
  </tr>
  </table>
 
+## Blog
 
 <iframe width="800" height="450" src="https://edi-rebekka.blogspot.de" frameborder="0" allowfullscreen=""></iframe>
