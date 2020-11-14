@@ -2,22 +2,12 @@
 
 <img style="float: right;" width="200" src="images/axt_por.jpg">
 Prof. Dr. Rebekka Axthelm<br>
-blabla
-
-<table border="0"><tr>
-	<td width="600" align="right">
-	Prof. Dr. Rebekka Axthelm <br>
-	Hochschule Konstanz <br>
-	Fakultät Informatik <br>
-	Alfred-Wachtel-Straße 8 <br>
-	78462 Konstanz <br>
+Hochschule Konstanz <br>
+Fakultät Informatik <br>
+Alfred-Wachtel-Straße 8 <br>
+78462 Konstanz <br>
 Tel.: +49 7531 206-503 <br> 
 rebekka.axthelm@htwg-konstanz.de
- </td><td width="150" align="left">
-<img width="200" src="images/axt_por.jpg">
-  </td>
-</tr>
- </table><br>
 
 * [Vice Director of IOS](https://www.ios.htwg-konstanz.de){:target="_blank"}
 * [Vice Equal Opportunity Commissioner of the University](https://www.htwg-konstanz.de/hochschule/gleichstellung-und-diversity/ansprechpersonen/){:target="_blank"}	
