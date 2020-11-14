@@ -109,7 +109,7 @@ Alfred-Wachtel-Straße 8 <br>
 78462 Konstanz <br>
 Tel.: +49 7531 206-503 <br> 
 rebekka.axthelm@htwg-konstanz.de
- </td><td valign="center">
+ </td><td width="150" valign="left">
 <img width="150" src="images/axt_por.jpg">
   </td>
  </tr>
