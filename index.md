@@ -80,7 +80,7 @@ rebekka.axthelm@htwg-konstanz.de
 
 ## teamprojects (ba)
 <details>
-<summary>Heading</summary>
+<summary>dropdown themes</summary>
 <ul>
 <li>SoSe 2020:
 	<ul>
