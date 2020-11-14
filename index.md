@@ -40,6 +40,15 @@ rebekka.axthelm@htwg-konstanz.de
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
 
+
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
+
 <!--
 <table border="0" cellpadding="0" valign="top" >
   	 <tr>
