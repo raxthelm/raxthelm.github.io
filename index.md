@@ -101,7 +101,7 @@
 
 <br>
 
-<table border="0"><tr><td width="650" align="right">
+<table border="0"><tr><td width="600" align="right">
 Rebekka Axthelm <br>
 Hochschule Konstanz <br>
 Fakultät Informatik <br>
@@ -110,7 +110,7 @@ Alfred-Wachtel-Straße 8 <br>
 Tel.: +49 7531 206-503 <br> 
 rebekka.axthelm@htwg-konstanz.de
  </td><td width="150" align="left">
-<img width="150" src="images/axt_por.jpg">
+<img width="200" src="images/axt_por.jpg">
   </td>
 </tr>
  </table><br>
