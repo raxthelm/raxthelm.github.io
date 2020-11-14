@@ -40,33 +40,6 @@ rebekka.axthelm@htwg-konstanz.de
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
 
-<details>
-<summary>Heading</summary>
-<ul>
-<li>markdown list 1
-<ul>
-<li>nested list 1</li>
-<li>nested list 2</li>
-</ul>
-</li>
-<li>markdown list 2</li>
-</ul>
-</details>
-
-<details>
-<summary>### Heading</summary>
-<ul>
-<li>markdown list 1
-<ul>
-<li>nested list 1</li>
-<li>nested list 2</li>
-</ul>
-</li>
-<li>markdown list 2</li>
-</ul>
-</details>
-
-
 
 <!--
 <table border="0" cellpadding="0" valign="top" >
@@ -106,6 +79,19 @@ rebekka.axthelm@htwg-konstanz.de
 (The lecture materials will be provided on moodle. )
 
 ## teamprojects (ba)
+<details>
+<summary>Heading</summary>
+<ul>
+<li>SoSe 2020:
+<ul>
+<li>pFlow - pedestrian counting App & CAD Domain-Designer</li>
+<li>Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)</li>
+</ul>
+</li>
+<li>WiSe 19/20:</li>
+</ul>
+</details>
+
 * SoSe 2020:
   * pFlow - pedestrian counting App & CAD Domain-Designer
   * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
