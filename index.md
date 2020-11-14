@@ -39,7 +39,7 @@
 
 * [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/) <br>
 	<span style="color:red">auf unbekannten Termin verschoebn!</span> <br>
-	<img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">
+	<!--<img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">-->
 
 * [IN Jahresrückblick 2019](https://www.htwg-konstanz.de/fileadmin/pub/fk_in/News/Newsletter/Jahresrueckblick_Fakultaet-Informatik_HTWG-Konstanz_2019.pdf)
 
@@ -49,7 +49,7 @@
 
 [vertonte Präsentation:](http://www.xthelm.de/pFlow/Praesentations/INM_Vortrag.mp4)
 
-<iframe width="560" height="315" src="https://youtu.be/I32QIwL4OCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://youtu.be/I32QIwL4OCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [190704 - KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
 * [190604 - Lehr-Werkstatt](https://www.htwg-konstanz.de/hochschule/lehre-und-qualitaetsmanagement/lehrwerkstatt/) - Seamless Learning 
@@ -69,8 +69,8 @@
 
 ## teamprojects (ba)
 * SoSe 2020:
-  * pFlow - pedestrian counting App (in progress)
-  * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
+  * pFlow - pedestrian counting App & CAD Domain-Designer
+  * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
   
 * WiSe 19/20: 
   * ["PiLadies"](http://www.isted.eu)
@@ -102,7 +102,7 @@
 
 May I introduce myself? (german)
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <table border="0"><tr><td  valign="center">
@@ -120,4 +120,4 @@ rebekka.axthelm@htwg-konstanz.de
  </table>
 
 
-<iframe width="980" height="500" src="https://edi-rebekka.blogspot.de" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="800" height="450" src="https://edi-rebekka.blogspot.de" frameborder="0" allowfullscreen=""></iframe>
