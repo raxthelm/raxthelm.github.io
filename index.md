@@ -83,34 +83,37 @@ rebekka.axthelm@htwg-konstanz.de
 <summary>Heading</summary>
 <ul>
 <li>SoSe 2020:
-<ul>
-<li>pFlow - pedestrian counting App & CAD Domain-Designer</li>
-<li>Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> <a href="https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb" target="_blank">(video presentation)</a></li>
-</ul>
-</li>
-<li>WiSe 19/20:</li>
 	<ul>
-		<li><a href="" target="_blank"> bla </a>
+		<li>pFlow - pedestrian counting App & CAD Domain-Designer</li>
+		<li>Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> <a href="https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb" target="_blank">(video presentation)</a></li>
 	</ul>
+</li>
+<li>WiSe 19/20:
+	<ul>
+		<li><a href="http://www.isted.eu" target="_blank"> PiLadies </a> </li>
+	</ul>
+</li>
+<li>SoSe 19:
+	<ul>
+		<li><a href="http://www-home.htwg-konstanz.de/~raxthelm/presentations/Color_TP_SoSe19.pdf" target="_blank"> Color your foto </a></li>
+	</ul>
+</li>
+<li>WiSe 18/19: 
+	<ul>
+		<li><a href="http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf" target="_blank"> pFlow for different operating systems </a></li>
+		<li><a href="http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf" target="_blank"> Book-Writer software </a></li>
+	</ul>
+</li>
+<li>SoSe 18: 
+	<ul>
+		<li>Duisburg 2010</li>
+		<li><a href="http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4" target="_blank"> virtual reality for the flow of people </a></li>
+	</ul>
+</li>
 </ul>
 </details>
 
-* SoSe 2020:
-  * pFlow - pedestrian counting App & CAD Domain-Designer
-  * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
-  
-* WiSe 19/20: 
-  * ["PiLadies"](http://www.isted.eu)
-* SoSe 19:
-  * ["Color your foto"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Color_TP_SoSe19.pdf)
-* WiSe 18/19: 
-  * ["pFlow for different operating systems"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/pFlow_TP_WiSe1819.pdf)
-  * ["Book-Writer software"](http://www-home.htwg-konstanz.de/~raxthelm/presentations/Book_TP_WiSe1819.pdf)
-* SoSe 18: 
-  * "Duisburg 2010"
-  * ["virtual reality for the flow of people"](http://www-home.htwg-konstanz.de/~raxthelm/videos/VR_mobile.mp4)
-  
- ## teamprojects (msi)
+## teamprojects (msi)
 * SoSe 2020:
   * Epidemie-Modellierung (in progress)
   
