@@ -44,10 +44,12 @@ rebekka.axthelm@htwg-konstanz.de
 
 <details>
 <summary>Want to ruin the surprise?</summary>
-* Well, you asked for it!
-* Well, you asked for it!
-	* Well, you asked for it!
-* Well, you asked for it!
+	
++ Well, you asked for it!
++ Well, you asked for it!
+	+ Well, you asked for it!
++ Well, you asked for it!
+
 </details>
 
 
