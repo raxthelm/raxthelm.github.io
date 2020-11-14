@@ -71,6 +71,7 @@
 * SoSe 2020:
   * pFlow - pedestrian counting App (in progress)
   * Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)
+  
 * WiSe 19/20: 
   * ["PiLadies"](http://www.isted.eu)
 * SoSe 19:
@@ -103,6 +104,7 @@ May I introduce myself? (german)
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <table border="0"><tr><td  valign="center">
 Rebekka Axthelm <br>
 Hochschule Konstanz <br>
@@ -118,4 +120,4 @@ rebekka.axthelm@htwg-konstanz.de
  </table>
 
 
-as you can see: this site is under construction ... 8-]
+<iframe width="980" height="500" src="https://edi-rebekka.blogspot.de" frameborder="0" allowfullscreen=""></iframe>
