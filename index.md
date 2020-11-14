@@ -85,7 +85,7 @@ rebekka.axthelm@htwg-konstanz.de
 <li>SoSe 2020:
 <ul>
 <li>pFlow - pedestrian counting App & CAD Domain-Designer</li>
-<li>Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> ["video presentation"](https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb)</li>
+<li>Verleihplattform <br> <img width="200" src="images/PraesentationTP_VP.png"> <br> Na href="https://video.htwg-konstanz.de/Panopto/Pages/Viewer.aspx?id=c46d2bb2-95e2-4406-9691-ac67010829cb" target="_blank">(video presentation)</a></li>
 </ul>
 </li>
 <li>WiSe 19/20:</li>
