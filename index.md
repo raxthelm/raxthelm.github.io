@@ -45,13 +45,7 @@
 
 # presentations
 
-* [191127 - Vortragsreihe Mathematik](http://www-home.htwg-konstanz.de/~raxthelm/News/Plakat_INMVortrag_WS1920.pdf) - Simulation von Personenströmen als Kontinuum bei Großanlässen und dichtem Personenverkehr 
-
-[vertonte Präsentation:](http://www.xthelm.de/pFlow/Praesentations/INM_Vortrag.mp4)
-
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=I32QIwL4OCc&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+* [191127 - Vortragsreihe Mathematik](http://www-home.htwg-konstanz.de/~raxthelm/News/Plakat_INMVortrag_WS1920.pdf) - Simulation von Personenströmen als Kontinuum bei Großanlässen und dichtem Personenverkehr ([vertonte Präsentation:](https://www.youtube.com/watch?v=I32QIwL4OCc&feature=youtu.be))
 * [190704 - KI-Thementag](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht/informatik-news-alle-nachrichten/news/thementag-ki-informatik-zeigt-was-sie-zu-bieten-hat/) - Künstliche Intelligenz, Algorithmik und Digitalisierung an der HTWG
 * [190604 - Lehr-Werkstatt](https://www.htwg-konstanz.de/hochschule/lehre-und-qualitaetsmanagement/lehrwerkstatt/) - Seamless Learning 
 
@@ -106,7 +100,7 @@ May I introduce myself? (german)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<table border="0"><tr><td  valign="center">
+<table width="800" border="0"><tr><td valign="center">
 Rebekka Axthelm <br>
 Hochschule Konstanz <br>
 Fakultät Informatik <br>
