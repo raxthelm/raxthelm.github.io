@@ -112,8 +112,14 @@ rebekka.axthelm@htwg-konstanz.de
  </td><td width="150" align="left">
 <img width="150" src="images/axt_por.jpg">
   </td>
- </tr>
+<td colspan="2">
+* [vice director of ios](https://www.ios.htwg-konstanz.de)
+* [Vice equal opportunity commissioner of the university](https://www.htwg-konstanz.de/hochschule/gleichstellung-und-diversity/ansprechpersonen/)	
+</td>	
+</tr>
  </table>
+
+
 
 ## Blog
 
