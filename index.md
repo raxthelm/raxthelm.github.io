@@ -1,3 +1,28 @@
+# contact
+
+<img style="float: right;" width="200" src="images/axt_por.jpg">
+Prof. Dr. Rebekka Axthelm<br>
+blabla
+
+<table border="0"><tr>
+	<td width="600" align="right">
+	Prof. Dr. Rebekka Axthelm <br>
+	Hochschule Konstanz <br>
+	Fakultät Informatik <br>
+	Alfred-Wachtel-Straße 8 <br>
+	78462 Konstanz <br>
+Tel.: +49 7531 206-503 <br> 
+rebekka.axthelm@htwg-konstanz.de
+ </td><td width="150" align="left">
+<img width="200" src="images/axt_por.jpg">
+  </td>
+</tr>
+ </table><br>
+
+* [Vice Director of IOS](https://www.ios.htwg-konstanz.de){:target="_blank"}
+* [Vice Equal Opportunity Commissioner of the University](https://www.htwg-konstanz.de/hochschule/gleichstellung-und-diversity/ansprechpersonen/){:target="_blank"}	
+
+
 # fields of interest
 
 * numerical mathematics in particular 
@@ -93,31 +118,11 @@
 ### master thesis
 * WiSe 18/19: "Untersuchung verschiedener Methoden zur Detektion von Ablaufprozessen in der Waferproduktion" (M. Leippert)
 
-# about me / contact
+# about me
 
 ## May I introduce myself? (german)
   
 <iframe width="800" height="450" src="https://www.youtube.com/embed/px_7Kniswso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-<table border="0"><tr><td width="600" align="right">
-Rebekka Axthelm <br>
-Hochschule Konstanz <br>
-Fakultät Informatik <br>
-Alfred-Wachtel-Straße 8 <br>
-78462 Konstanz <br>
-Tel.: +49 7531 206-503 <br> 
-rebekka.axthelm@htwg-konstanz.de
- </td><td width="150" align="left">
-<img width="200" src="images/axt_por.jpg">
-  </td>
-</tr>
- </table><br>
-
-* [Vice Director of IOS](https://www.ios.htwg-konstanz.de){:target="_blank"}
-* [Vice Equal Opportunity Commissioner of the University](https://www.htwg-konstanz.de/hochschule/gleichstellung-und-diversity/ansprechpersonen/){:target="_blank"}	
-
 
 ## Blog
 
