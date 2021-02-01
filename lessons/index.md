@@ -14,6 +14,6 @@
 
 # hilfreiche, weiterführende Links
 
-* [emxtremstark.de](http://www.extremstark.de/): Abi**
-* Thomas [mathe-seiten](http://www.mathe-seiten.de/): dies & das
+* [extremstark.de](http://www.extremstark.de/): Abi**
+* Thomas' [mathe-seiten](http://www.mathe-seiten.de/): dies & das
 * [schule-bw](https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/mathematik/interaktiv_digital/lernvideos/uebergang-schule-hochschule) mit der [Hauptseite](https://www.schule-bw.de/): sehr gutes,  interaktives Lernmaterial und gut aufbereitete Einzelproblemlösungen
