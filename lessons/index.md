@@ -15,7 +15,7 @@
 |:.:|:.:|:.:|:.:|
 
 
-| Rebekka Axthelm | pic |   |   |   |
+| ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=150,50) | pic |   |   |   |
 |:---------------:|:---:|:-:|:-:|:-:|
 |       bla       |     |   |   |   |
 |                 |     |   |   |   |
