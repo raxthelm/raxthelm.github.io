@@ -15,7 +15,7 @@
 |:.:|:.:|:.:|:.:|
 
 
-| ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=150,50) | pic |   |   |   |
+| ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=60,20) | ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=60,20) |   |   |   |
 |:---------------:|:---:|:-:|:-:|:-:|
 |       bla       |     |   |   |   |
 |                 |     |   |   |   |
