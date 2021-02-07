@@ -9,16 +9,10 @@
 
 # Mathematik 2 - Analysis
 
-|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>||<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|
-|:.:|:.:|:.:|:.:|
-|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|
-|:.:|:.:|:.:|:.:|
-
 
 | ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  ![Diff1d](./AnalysisSlides/TitlePics/03_Differentiation.png?thumbnail) |
 |:---:|:---:|:---:|
-|      01_FolgenUndReihen.pdf    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
-|:---:|:---:|:---:|
+|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
 
 
 # hilfreiche, weiterführende Links
