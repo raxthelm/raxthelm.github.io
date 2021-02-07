@@ -15,7 +15,7 @@
 |:.:|:.:|:.:|:.:|
 
 
-| ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png# thumbnail bordered) | ![](./AnalysisSlides/TitlePics/02_Funktionen.png?cropResize=30,10) |  ![](./AnalysisSlides/TitlePics/03_Differentiation.png?cropResize=30,10) |
+| ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![](./AnalysisSlides/TitlePics/02_Funktionen.png?cropResize=30,10) |  ![](./AnalysisSlides/TitlePics/03_Differentiation.png?cropResize=30,10) |
 |:---:|:---:|:---:|
 |      01_FolgenUndReihen.pdf    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
 |:---:|:---:|:---:|
