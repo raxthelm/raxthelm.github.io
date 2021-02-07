@@ -12,7 +12,7 @@
 
 | ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  ![Diff1d](./AnalysisSlides/TitlePics/03_Differentiation.png?thumbnail) |
 |:---:|:---:|:---:|
-|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
+|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="MAIN">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
 
 
 # hilfreiche, weiterführende Links
