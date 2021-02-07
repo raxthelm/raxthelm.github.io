@@ -15,11 +15,9 @@
 |:.:|:.:|:.:|:.:|
 
 
-| ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=60,20) | ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=60,20) |   |   |   |
-|:---------------:|:---:|:-:|:-:|:-:|
-|       bla       |     |   |   |   |
-|                 |     |   |   |   |
-|                 |     |   |   |   |
+| ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=30,10) | ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=30,10) |  ![](./AnalysisSlides/TitlePics/01_FolgenReihen.png?cropResize=30,10) |
+|:---------------:|:---:|:-:|
+|       bla       |     |   |
 
 
 
