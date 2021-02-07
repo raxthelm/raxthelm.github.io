@@ -10,8 +10,8 @@
 # Mathematik 2 - Analysis
 
 <p>
-    <img width="100" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt>
-    <em>image_caption</em>
+    <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="100" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a><br>
+    <em>01_FolgenUndReihen.pdf</em>
 </p>
 
 
