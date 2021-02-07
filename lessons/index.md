@@ -9,8 +9,11 @@
 
 # Mathematik 2 - Analysis
 
-* Folgen
-* ...
+<p>
+    <img width="100" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt>
+    <em>image_caption</em>
+</p>
+
 
 # hilfreiche, weiterführende Links
 
