@@ -9,10 +9,10 @@
 
 # Mathematik 2 - Analysis
 
-<p>
-    <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="100" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a><br>
-    <em>01_FolgenUndReihen.pdf</em>
-</p>
+|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>||<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|<a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="top"><img width="200" src="./AnalysisSlides/TitlePics/01_FolgenReihen.png" alt></a>|
+|:.:|:.:|:.:|:.:|
+|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|<em>01_FolgenUndReihen.pdf</em>|
+|:.:|:.:|:.:|:.:|
 
 
 # hilfreiche, weiterführende Links
