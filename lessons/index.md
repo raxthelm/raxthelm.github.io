@@ -12,11 +12,11 @@
 
 | ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  ![Diff1d](./AnalysisSlides/TitlePics/03_Differentiation.png?thumbnail) |
 |:---:|:---:|:---:|
-|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="MAIN">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
+| <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="MAIN">01_FolgenUndReihen.pdf</a>    | <a href="./AnalysisSlides/02_Funktionen.pdf" target="MAIN">02_Funktionen.pdf</a>    | <a href="./AnalysisSlides/03_Differentiation.pdf" target="MAIN">03_Differentiation.pdf</a>    | 
 | ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  ![Diff1d](./AnalysisSlides/TitlePics/03_Differentiation.png?thumbnail) |
-|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="MAIN">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
-| ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  ![Diff1d](./AnalysisSlides/TitlePics/03_Differentiation.png?thumbnail) |
-|      <a href="./AnalysisSlides/01_FolgenUndReihen.pdf" target="MAIN">01_FolgenUndReihen.pdf</a>    |  02_Funktionen.pdf   |  03_Differentiation.pdf |
+| <a href="./AnalysisSlides/04_DifferentiationDiskret.pdf" target="MAIN">04_DifferentiationDiskret.pdf</a>    |  <a href="./AnalysisSlides/05_DifferentiationMultivariat.pdf" target="MAIN">05_DifferentiationMultivariat.pdf</a> |  <a href="./AnalysisSlides/06_DiskreteDifferentiationMultivariat.pdf" target="MAIN">06_DiskreteDifferentiationMultivariat.pdf</a>   | 
+| ![Folgen](./AnalysisSlides/TitlePics/01_FolgenReihen.png?thumbnail) | ![Funktionen](./AnalysisSlides/TitlePics/02_Funktionen.png?thumbnail) |  |
+| <a href="./AnalysisSlides/07_Integration.pdf" target="MAIN">07_Integration.pdf</a>    |  <a href="./AnalysisSlides/08_Taylor.pdf" target="MAIN">08_Taylor.pdf</a> |   | 
 
 
 
