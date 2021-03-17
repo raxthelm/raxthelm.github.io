@@ -29,8 +29,8 @@ rebekka.axthelm@htwg-konstanz.de
 
 # past projects 
 
-* [Cman](http://www.xthelm.de/Cman){:target="_blank"}  - [subproject](https://seamless-learning.eu/en/projekte/cman){:target="_blank"} in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020
-* [BiLeSA](https://raxthelm.github.io/BiLeSA/){:target="_blank"}  - [subproject](https://seamless-learning.eu/en/projekte/bilesa/){:target="_blank"} in the IBH-Lab ["Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020 
+* [Cman - subproject](https://seamless-learning.eu/en/projekte/cman){:target="_blank"} in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020 [-> the Cman-page](http://www.xthelm.de/Cman){:target="_blank"}
+* [BiLeSA - subproject](https://seamless-learning.eu/en/projekte/bilesa/){:target="_blank"} in the IBH-Lab ["Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020 [-> the BiLeSA-page](https://raxthelm.github.io/BiLeSA/){:target="_blank"}
 * [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft){:target="_blank"} Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/){:target="_blank"}, results and documentation: [videos](https://knowledgestories.ibh.hs-furtwangen.de/){:target="_blank"}
 * [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php){:target="_blank"}: Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
