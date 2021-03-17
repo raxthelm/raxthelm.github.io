@@ -115,7 +115,7 @@ rebekka.axthelm@htwg-konstanz.de
 
 ## teamprojects (msi)
 * SoSe 20/WiSe20/21:
-  * <a href="http://www-home.htwg-konstanz.de/~raxthelm/praesentations/Pandemiemodellierung_TP_MSI_WiSe2021" target="_blank">Pandemiemodellierung</a>
+  * <a href="http://www-home.htwg-konstanz.de/~raxthelm/presentations/Pandemiemodellierung_TP_MSI_WiSe2021" target="_blank">Pandemiemodellierung</a>
   
 ## supervised scientific works
 ["If you are looking for supervision of a thesis, read this document first."](http://www-home.htwg-konstanz.de/~raxthelm/documents/BaMa.pdf)
