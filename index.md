@@ -25,19 +25,14 @@ rebekka.axthelm@htwg-konstanz.de
 
 # current projects
 
-* [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php)  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
-* [Cman](https://seamless-learning.eu/en/projekte/cman)  - subproject in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/), 2018 - 2020
-  - [Cman_<sub>event</sub>](http://www.xthelm.de/Cman): some learning object units
-  - Cman_<sub>math</sub>: there is nothing to see yet
-* [BiLeSA](https://seamless-learning.eu/en/projekte/bilesa/)  - subproject in the IBH-Lab "Seamless Learning", 2018 - 2020 
-  - developed learning [BiLeSA App](https://drive.google.com/file/d/1wsQC2mxHmsmyRJWWEOdQKbu1a6goWLIp/view?usp=sharing)
-  - [BiLeSA_<sub>PDE</sub>](https://padlet.com/rebekka_axthelm/BiLeSA): some learning object units
-  - BiLeSA_<sub>HOM</sub>: there is nothing to see yet
+* [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php){:target="_blank"}  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
 
 # past projects 
 
-* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft) Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/), results and documentation: [videos](https://knowledgestories.ibh.hs-furtwangen.de/)
-* [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php): Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
+* [Cman](http://www.xthelm.de/Cman){:target="_blank"}  - [subproject](https://seamless-learning.eu/en/projekte/cman){:target="_blank"} in the [IBH-Lab "Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020
+* [BiLeSA](https://raxthelm.github.io/BiLeSA/){:target="_blank"}  - [subproject](https://seamless-learning.eu/en/projekte/bilesa/){:target="_blank"} in the IBH-Lab ["Seamless Learning"](http://www.bodenseehochschule.org/ibh-labs/ibh-lab-seamless-learning/){:target="_blank"}, 2018 - 2020 
+* [Knowledge Stories](https://www.bodenseehochschule.org/projects/knowledge-stories-nachwuchsgewinnung-in-der-wissenschaft){:target="_blank"} Recruiting Young Scientists - Development, Survey and Testing multimodal knowledge communication, 2019. lead: [ZHAW](https://www.zhaw.ch/no_cache/de/forschung/forschungsdatenbank/projektdetail/projektid/2676/){:target="_blank"}, results and documentation: [videos](https://knowledgestories.ibh.hs-furtwangen.de/){:target="_blank"}
+* [pi-Vision](http://www-home.htwg-konstanz.de/~raxthelm/piVision.php){:target="_blank"}: Gesichtserkennung auf dem Raspberry Pi (ZHAW interne Sonderfinanzierung, 2014)
 * ... to be continued 
 
 
@@ -53,7 +48,7 @@ rebekka.axthelm@htwg-konstanz.de
 
 # news
 
-* [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/) <br> (auf unbekannten Termin verschoben)
+* [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/){:target="_blank"} <br> (auf unbekannten Termin verschoben)
 	<!--<span style="color:red">auf unbekannten Termin verschoebn!</span> <br>
 	<!--<img width="150" src="images/Grenzgaenger_A1-Plakat_2020-1_PRINT.png">-->
 
