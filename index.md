@@ -23,6 +23,10 @@ rebekka.axthelm@htwg-konstanz.de
   * mathematical methods of image processing
   * epidemic modeling, coupled with pedestrian flow
 
+# you must have seen this
+
+* <a href="http://141.37.176.216:5000/" target="_blank">simulation</a> (currently only accessible with vpn access) of epidemic spread of infections (master teamproject 2020/2021)
+
 # current projects
 
 * [pFLowSIM](http://www-home.htwg-konstanz.de/~raxthelm/pFlow14.php){:target="_blank"}  - partial differential equation for pedestrian movement, ongoing since 2014 (currently unfunded)
