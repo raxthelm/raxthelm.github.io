@@ -51,6 +51,7 @@ rebekka.axthelm@htwg-konstanz.de
 -->
 
 # news
+*[Cman Demovideo](http://www-home.htwg-konstanz.de/~raxthelm/Cman/Demos/CmanCocktailbar.mp4){:target="_blank"}
 
 * [Grenzgänger Wissenschaft 10.03.2020](https://www.grenzgaenger-wissenschaft.de/termine/veranstaltungen/2020/3/10/event/37043-Grenzgnger-Wissenschaft-/tx_cal_phpicalendar/){:target="_blank"} <br> (auf unbekannten Termin verschoben)
 	<!--<span style="color:red">auf unbekannten Termin verschoebn!</span> <br>
