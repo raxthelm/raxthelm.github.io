@@ -6,3 +6,4 @@
 - $\dfrac{x}{y}$
 - $\sqrt{x}$
 
+$-|\nabla \Phi| = \frac{1}{f(\rho)} $
