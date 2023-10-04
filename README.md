@@ -15,31 +15,22 @@ The crowd dynamics are therefore described by the density ρ at a given time t a
 
 The governing equations are the continuity equation (known from fluid mechanics) which states that the net flow of pedestrians into a small region (given by the divergence) equals the accumulation (or loss) of the pedestrians in this region (given by the time derivative)
 
-$ρt+div(ρu)=0$
+\begin{equation*}
+\Huge \varrho_t+\nabla\cdot(\varrho\,u)=0
+\end{equation*}
+
 
 and the eikonal equation (known from optics) which computes the minimal amount of time required to travel to the boundary (in our case: exit) where the speed only depends on the local densitiy of the crowd:
 
-$-|\nabla \Phi| = \frac{1}{f(\rho)} $
-
-where $f(ρ)$ is a (given) function which relates density to speed (as scalar).
-
-
-
-Inline equation: $equation$
-
-- $$x + y$$
-- $x - y$
-- $x \times y$ 
-- $x \div y$
-- $\dfrac{x}{y}$
-- $\sqrt{x}$
-
 \begin{equation*}
-J(\theta) = \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2
+-|\nabla \Phi| = \frac{1}{f(\varrho)} 
 \end{equation*}
 
-\begin{align}
-J(\theta) &= \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2\\
-J &= \int\limits_\Omega f~dx
-\end{align}
 
+where $f(\varrho)$ is a (given) function which relates density to speed (as scalar).
+
+It is called "fundamental diagram", and there exist a lot of different propositions in the literature how it looks like, none of them fully accepted, but some of them verified in important scenarios. The scalar field Φ can be interpreted as a potential which describes the time it takes to reach from a given location (x,y) the boundary of the domain. The velocity field of the crowd is then given by 
+
+\begin{equation*}
+u=−f(\varrho)\,\frac{\nabla \Phi}{|\nabla\Phi|}
+\end{equation*}
